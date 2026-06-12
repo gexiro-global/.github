@@ -16,6 +16,8 @@ Based in Gibraltar. Serving businesses globally.
 
 **[GexAura](https://gexaura.com)** — Intelligent concierge platform delivering clinical-grade answers through advanced knowledge retrieval and precision-engineered workflows.
 
+**[ForgeGuard](https://github.com/gexiro-global/forgeguard)** — Read-only security posture self-check for self-hosted Gitea/Forgejo. Checks patch currency, CVE posture, container-registry exposure and sign-in posture. Own/authorized instances only.
+
 ### Connect
 
 [gexiro.com](https://gexiro.com) · [LinkedIn](https://www.linkedin.com/company/gexiro/) · Gibraltar
