@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gexiro-global/.github/main/profile/banner.png" alt="Gexiro Global Enterprises Ltd - privacy-first, sovereign software infrastructure" width="100%" />
+</p>
+
 ## Gexiro Global Enterprises Ltd
 
 We build privacy-first and sovereign software infrastructure.
