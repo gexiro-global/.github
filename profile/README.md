@@ -28,6 +28,7 @@ designed with explicit, conservative failure behavior.
 **Security & AI**
 
 - **[llm-security-gates](https://github.com/gexiro-global/llm-security-gates)** — Python security gates for LLM systems: prompt-injection filtering, model-artifact scanning, and garak-based red-team scoring.
+- **[patch-gate](https://github.com/gexiro-global/patch-gate)** — Policy-gated preflight for applying untrusted unified diffs in CI and agent sandboxes: gate paths against escape/symlink/deny rules, `git apply --check`, then apply. Fails closed.
 - **[csaf-check](https://github.com/gexiro-global/csaf-check)** — Python API and CLI to validate CSAF 2.0 security advisories and VEX documents (`@secvisogram/csaf-validator-lib`), with CI-friendly unavailable-validator handling.
 - **[forgeguard](https://github.com/gexiro-global/forgeguard)** — Read-only security posture checks for authorized self-hosted Gitea and Forgejo: patch currency, CVE posture, container-registry and sign-in exposure.
 - **[ai-vault-contract](https://github.com/gexiro-global/ai-vault-contract)** — Starter Obsidian vault and write contract for AI-maintained knowledge bases (Claude + Codex): dedup, schemas, atomic notes.
