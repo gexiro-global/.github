@@ -38,9 +38,11 @@ designed with explicit, conservative failure behavior.
 - **[cloudflare-ufw-sync](https://github.com/gexiro-global/cloudflare-ufw-sync)** — Additively synchronize a UFW allowlist with Cloudflare's published IP ranges, with input validation and dry-run support.
 - **[wp-hygiene-kit](https://github.com/gexiro-global/wp-hygiene-kit)** — Read-only hygiene checks for hosts serving multiple WordPress sites: discover live installs, ClamAV scan, ownership checks.
 - **[deploy-guard-kit](https://github.com/gexiro-global/deploy-guard-kit)** — Read-only pre-deployment checks for single-host deploys: reserved-port conflicts, PM2 working-directory drift, and content-marker health checks.
+- **[site-canary](https://github.com/gexiro-global/site-canary)** — Off-host synthetic monitor for multiple sites: status, content-marker, cross-tenant leak detection, and latency, with transition-based alerts to Telegram or a webhook.
 
-**Discovery & SEO**
+**Web quality & SEO**
 
+- **[contrast-matrix](https://github.com/gexiro-global/contrast-matrix)** — WCAG color-contrast matrix checker for design tokens: evaluate tokens over solid, alpha, and derived backgrounds; deterministic worst-case, CI-first, JSON/SARIF.
 - **[indexnow-ping](https://github.com/gexiro-global/indexnow-ping)** — Submit sitemap URLs via IndexNow and optionally Google Search Console, with a robots.txt guard that refuses to announce pre-launch sites.
 
 ### Connect
