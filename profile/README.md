@@ -16,14 +16,14 @@
 
 ---
 
-## ⚡ Flagship Sovereign Software Products
+## Flagship Sovereign Software Products
 
 We build privacy-first, zero-trust infrastructure engineered for extreme operational autonomy, regulatory compliance, and resilience.
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>👻 <a href="https://ghostbill.org">GhostBill</a> <code>ghostbill.org</code></h3>
+      <h3><a href="https://ghostbill.org">GhostBill</a> <code>GHOSTBILL // XMR</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
         <img src="https://img.shields.io/badge/Privacy-Tor--Native-7D4698?style=flat-square" alt="Tor-Native">
@@ -37,7 +37,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🧬 <a href="https://chimerascope.com">ChimeraScope</a> <code>chimerascope.com</code></h3>
+      <h3><a href="https://chimerascope.com">ChimeraScope</a> <code>CHIMERASCOPE // SEC-OPS</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
         <img src="https://img.shields.io/badge/SecOps-Attack_Surface-0284C7?style=flat-square" alt="Attack Surface">
@@ -53,7 +53,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🌐 <a href="https://xgatewayos.com">X-Gateway OS</a> <code>xgatewayos.com</code></h3>
+      <h3><a href="https://xgatewayos.com">X-Gateway OS</a> <code>X-GATEWAY OS // XRPL</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
         <img src="https://img.shields.io/badge/Ledger-XRP_Ledger-23292F?style=flat-square" alt="XRPL">
@@ -67,7 +67,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>🔍 <a href="https://exposcore.io">ExpoScore</a> <code>exposcore.io</code></h3>
+      <h3><a href="https://exposcore.io">ExpoScore</a> <code>EXPOSCORE // PRIVACY</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
         <img src="https://img.shields.io/badge/Audit-Multi--Chain-8B5CF6?style=flat-square" alt="Multi-Chain">
@@ -83,7 +83,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>✨ <a href="https://gexaura.com">GexAura</a> <code>gexaura.com</code></h3>
+      <h3><a href="https://gexaura.com">GexAura</a> <code>GEXAURA // AI</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
         <img src="https://img.shields.io/badge/AI-Clinical--Grade_Retrieval-059669?style=flat-square" alt="Clinical-Grade Retrieval">
@@ -101,11 +101,11 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
 
 ---
 
-## 🛠️ Open Source SecOps & Sovereign Tools Matrix
+## Open Source SecOps & Sovereign Tools Matrix
 
 Small, focused, permissively licensed tools maintained in the open. Each project is designed with explicit, conservative failure behavior and zero unnecessary dependencies.
 
-### 🛡️ Security & AI
+### Security & AI
 
 | Tool / Repository | Language | License | Focus & Topics | Description |
 | :--- | :---: | :---: | :--- | :--- |
@@ -115,7 +115,7 @@ Small, focused, permissively licensed tools maintained in the open. Each project
 | [**forgeguard**](https://github.com/gexiro-global/forgeguard) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4E2A8E?style=flat-square&logo=gnu-bash&logoColor=white) | ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) | ![SecOps](https://img.shields.io/badge/Topic-SecOps-blue?style=flat-square) ![Gitea](https://img.shields.io/badge/Topic-Gitea%2FForgejo-orange?style=flat-square) | Read-only security posture checks for authorized self-hosted Gitea and Forgejo: patch currency, CVE posture, container-registry and sign-in exposure. |
 | [**ai-vault-contract**](https://github.com/gexiro-global/ai-vault-contract) | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) | ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) | ![Obsidian](https://img.shields.io/badge/Topic-Obsidian-purple?style=flat-square) ![Knowledge Base](https://img.shields.io/badge/Topic-AI_KB-blue?style=flat-square) | Starter Obsidian vault and write contract for AI-maintained knowledge bases (Claude + Codex): dedup, schemas, atomic notes. |
 
-### 🚀 Self-Hosting & Deploy
+### Self-Hosting & Deploy
 
 | Tool / Repository | Language | License | Focus & Topics | Description |
 | :--- | :---: | :---: | :--- | :--- |
@@ -125,7 +125,7 @@ Small, focused, permissively licensed tools maintained in the open. Each project
 | [**deploy-guard-kit**](https://github.com/gexiro-global/deploy-guard-kit) | ![Shell](https://img.shields.io/badge/Shell-4E2A8E?style=flat-square&logo=gnu-bash&logoColor=white) | ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) | ![Deployment](https://img.shields.io/badge/Topic-Deployment-blue?style=flat-square) ![PM2](https://img.shields.io/badge/Topic-PM2-2B037A?style=flat-square) | Read-only pre-deployment checks for single-host deploys: reserved-port conflicts, PM2 working-directory drift, and content-marker health checks. |
 | [**site-canary**](https://github.com/gexiro-global/site-canary) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Shell](https://img.shields.io/badge/Shell-4E2A8E?style=flat-square&logo=gnu-bash&logoColor=white) | ![License](https://img.shields.io/badge/License-MIT-green?style=flat-square) | ![Monitoring](https://img.shields.io/badge/Topic-Monitoring-blue?style=flat-square) ![Alerting](https://img.shields.io/badge/Topic-Alerting-orange?style=flat-square) | Off-host synthetic monitor for multiple sites: status, content-marker, cross-tenant leak detection, and latency, with transition-based alerts to Telegram or a webhook. |
 
-### 🌐 Web Quality & Accessibility
+### Web Quality & Accessibility
 
 | Tool / Repository | Language | License | Focus & Topics | Description |
 | :--- | :---: | :---: | :--- | :--- |
@@ -134,7 +134,7 @@ Small, focused, permissively licensed tools maintained in the open. Each project
 
 ---
 
-### 🌐 Connect & Corporate Governance
+### Connect & Corporate Governance
 
 <p align="center">
   <a href="https://gexiro.com"><img src="https://img.shields.io/badge/Website-gexiro.com-0d1117?style=for-the-badge&logo=globe&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="gexiro.com"></a>
