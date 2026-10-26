@@ -99,7 +99,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
     <td width="50%" valign="top">
       <h3><a href="https://gexiro.com/en/products/content-guardian-pro">Content Guardian</a> <code>CONTENT GUARDIAN // WP-SEC</code></h3>
       <p>
-        <img src="https://img.shields.io/badge/Status-Live_(v3.3.3)-10B981?style=flat-square" alt="Status: Live (v3.3.3)">
+        <img src="https://img.shields.io/badge/Status-Live_(v3.3.4)-10B981?style=flat-square" alt="Status: Live (v3.3.4)">
         <img src="https://img.shields.io/badge/Platform-WordPress_6.2--7.1.3-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress 6.2-7.1.3">
         <img src="https://img.shields.io/badge/Updates-Cold--Vault_Ed25519-0284C7?style=flat-square" alt="Cold-Vault Ed25519">
       </p>
