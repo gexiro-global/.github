@@ -109,6 +109,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Unauthenticated REST API, RSS/Atom, oEmbed & W3C TDM-Reservation policy shields</li>
         <li>Air-gapped Cold-Vault Ed25519 update verification & GPL-2.0-or-later Free + Pro editions</li>
       </ul>
+      <p><sub><a href="https://github.com/gexiro-global/.github/blob/main/releases/content-guardian-v3.3.4.md">Release Notes v3.3.4</a> · <a href="https://gexiro.com/content-guardian/content-guardian-free-latest.zip">Free GPL-2.0 ZIP</a> · <a href="https://gexiro.com/en/products/content-guardian-pro">Pro & Live Sandbox</a></sub></p>
     </td>
   </tr>
 </table>
