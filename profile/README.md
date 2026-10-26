@@ -82,7 +82,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://gexaura.com">GexAura</a> <code>GEXAURA // AI</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
@@ -94,6 +94,20 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Delivers precision-engineered answers through specialized retrieval augmented generation</li>
         <li>High-assurance knowledge synthesis with clinical-grade validation workflows</li>
         <li>Enterprise-grade contextual intelligence and autonomous workspace integration</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://gexiro.com/en/products/content-guardian-pro">Content Guardian</a> <code>CONTENT GUARDIAN // WP-SEC</code></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live_(v3.3.3)-10B981?style=flat-square" alt="Status: Live (v3.3.3)">
+        <img src="https://img.shields.io/badge/Platform-WordPress_6.2--7.1.3-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress 6.2-7.1.3">
+        <img src="https://img.shields.io/badge/Updates-Cold--Vault_Ed25519-0284C7?style=flat-square" alt="Cold-Vault Ed25519">
+      </p>
+      <p><b>21-layer WordPress content protection, headless API shield & supply-chain security suite.</b></p>
+      <ul>
+        <li>Browser DOM/Shadow-DOM isolation & HMAC-64 Zero-Width Canary v2 DRM</li>
+        <li>Unauthenticated REST API, RSS/Atom, oEmbed & W3C TDM-Reservation policy shields</li>
+        <li>Air-gapped Cold-Vault Ed25519 update verification & GPL-2.0-or-later Free + Pro editions</li>
       </ul>
     </td>
   </tr>
@@ -139,6 +153,8 @@ Small, focused, permissively licensed tools maintained in the open. Each project
 <p align="center">
   <a href="https://gexiro.com"><img src="https://img.shields.io/badge/Website-gexiro.com-0d1117?style=for-the-badge&logo=globe&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="gexiro.com"></a>
   <a href="https://www.linkedin.com/company/gexiro/"><img src="https://img.shields.io/badge/LinkedIn-Gexiro-0d1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="LinkedIn"></a>
+  <a href="https://x.com/gexiroLtd"><img src="https://img.shields.io/badge/X-@gexiroLtd-0d1117?style=for-the-badge&logo=x&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="X @gexiroLtd"></a>
+  <a href="https://profiles.wordpress.org/gexiro/"><img src="https://img.shields.io/badge/WordPress.org-@gexiro-0d1117?style=for-the-badge&logo=wordpress&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="WordPress.org @gexiro"></a>
   <a href="https://gexiro.com"><img src="https://img.shields.io/badge/Jurisdiction-Gibraltar-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF&labelColor=161b22&color=21262d" alt="Gibraltar"></a>
 </p>
 
