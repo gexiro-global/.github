@@ -100,7 +100,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
       <h3><a href="https://gexiro.com/en/products/content-guardian-pro">Content Guardian</a> <code>CONTENT GUARDIAN // WP-SEC</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live_(v3.3.4)-10B981?style=flat-square" alt="Status: Live (v3.3.4)">
-        <img src="https://img.shields.io/badge/Platform-WordPress_6.2--7.1.3-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress 6.2-7.1.3">
+        <a href="https://wordpress.org/plugins/gexiro-content-protection/"><img src="https://img.shields.io/badge/WordPress.org-Verified_(v3.3.4)-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress.org Verified"></a>
         <img src="https://img.shields.io/badge/Updates-Cold--Vault_Ed25519-0284C7?style=flat-square" alt="Cold-Vault Ed25519">
       </p>
       <p><b>21-layer WordPress content protection, headless API shield & supply-chain security suite.</b></p>
@@ -109,7 +109,7 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Unauthenticated REST API, RSS/Atom, oEmbed & W3C TDM-Reservation policy shields</li>
         <li>Air-gapped Cold-Vault Ed25519 update verification & GPL-2.0-or-later Free + Pro editions</li>
       </ul>
-      <p><sub><a href="https://github.com/gexiro-global/.github/blob/main/releases/content-guardian-v3.3.4.md">Release Notes v3.3.4</a> · <a href="https://gexiro.com/content-guardian/content-guardian-free-latest.zip">Free GPL-2.0 ZIP</a> · <a href="https://gexiro.com/en/products/content-guardian-pro">Pro & Live Sandbox</a></sub></p>
+      <p><sub><a href="https://wordpress.org/plugins/gexiro-content-protection/">WordPress.org Directory</a> · <a href="https://github.com/gexiro-global/.github/blob/main/releases/content-guardian-v3.3.4.md">Release Notes v3.3.4</a> · <a href="https://gexiro.com/content-guardian/content-guardian-free-latest.zip">Free GPL-2.0 ZIP</a> · <a href="https://gexiro.com/en/products/content-guardian-pro">Pro & Live Sandbox</a></sub></p>
     </td>
   </tr>
 </table>
