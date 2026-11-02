@@ -101,13 +101,13 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
       <p>
         <img src="https://img.shields.io/badge/Status-Live_(v3.3.4)-10B981?style=flat-square" alt="Status: Live (v3.3.4)">
         <a href="https://wordpress.org/plugins/gexiro-content-protection/"><img src="https://img.shields.io/badge/WordPress.org-Verified_(v3.3.4)-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress.org Verified"></a>
-        <img src="https://img.shields.io/badge/Updates-Cold--Vault_Ed25519-0284C7?style=flat-square" alt="Cold-Vault Ed25519">
+        <img src="https://img.shields.io/badge/Edition-Free_%2B_Commercial_Pro-0284C7?style=flat-square" alt="Free + Commercial Pro">
       </p>
-      <p><b>21-layer WordPress content protection, headless API shield & supply-chain security suite.</b></p>
+      <p><b>WordPress content, image, anti-scraping & AI bot protection suite.</b></p>
       <ul>
-        <li>Browser DOM/Shadow-DOM isolation & HMAC-64 Zero-Width Canary v2 DRM</li>
-        <li>Unauthenticated REST API, RSS/Atom, oEmbed & W3C TDM-Reservation policy shields</li>
-        <li>Air-gapped Cold-Vault Ed25519 update verification & GPL-2.0-or-later Free + Pro editions</li>
+        <li>Article, text, image & print copyright protection with form-input safety</li>
+        <li>Automated bulk content scraper and AI training bot defense</li>
+        <li>Invisible ownership watermarking, admin leak verifier & flexible domain plans</li>
       </ul>
       <p><sub><a href="https://wordpress.org/plugins/gexiro-content-protection/">WordPress.org Directory</a> · <a href="https://github.com/gexiro-global/.github/blob/main/releases/content-guardian-v3.3.4.md">Release Notes v3.3.4</a> · <a href="https://gexiro.com/content-guardian/content-guardian-free-latest.zip">Free GPL-2.0 ZIP</a> · <a href="https://gexiro.com/en/products/content-guardian-pro">Pro & Live Sandbox</a></sub></p>
     </td>
