@@ -10,38 +10,34 @@
 
 ## Overview
 
-**Content Guardian v3.3.4** delivers hardened commercial license enforcement, atomic server-side revocation & seat-ledger resilience, and refined Free-to-Pro edition handover across WordPress `6.2 – 7.1.4`.
-
-Unlike legacy browser-only copy-protection scripts that leave `/wp-json/wp/v2/`, RSS/Atom feeds, oEmbed endpoints, and automated AI crawlers completely open, Content Guardian enforces layered controls across browser DOM boundaries, unauthenticated WordPress API endpoints, W3C machine-readable policy headers, and Cold-Vault Ed25519 signed updates.
+**Content Guardian v3.3.4** protects WordPress and WooCommerce publications against casual copy-paste theft, unauthorized image saving, automated bulk content scraping, and unauthorized AI training bots — while keeping Google SEO and your editorial workflow intact.
 
 ---
 
 ## Key Highlights in v3.3.4
 
 - **Official WordPress.org Plugin Directory Release (`@gexiro`):** The standalone GPL-2.0-or-later Free edition (**Gexiro Content Protection**) is officially reviewed, approved, and published in the WordPress.org Plugin Directory (`https://wordpress.org/plugins/gexiro-content-protection/`) with 1-click browser Live Preview via WordPress Playground.
-- **Server-Authoritative CGP2 Seat Enforcement:** Initial `CGP2.` token activations require live seat registration against `api.gexiro.com` (`1` / `5` / `25` domains), preventing offline multi-domain seat bypass while preserving cached resilience for already-bound production sites.
-- **Deterministic Plan-Change & Subscription Continuity:** Supports scheduled `cancel_at_period_end` and deferred billing transitions without premature seat revocation during an active paid billing cycle, plus deterministic oldest-first seat retention upon tier downgrades.
-- **Fail-Closed Revocation & Atomic Ledger Integrity:** Hardened `LOCK_EX` atomic state persistence and initialization sentinels across license issuance, seat release, and revocation checks.
-- **Local Protection Continuity (Pro Annual Plans):** If an annual subscription ends naturally, all **21 local protection layers** on the installed version remain active on bound domains; an active subscription is required only for signed OTA updates and priority support.
-- **Seamless Free-to-Pro Handover:** Installing Content Guardian Pro automatically migrates existing Gexiro Content Protection (Free) settings and cleanly deactivates the standalone Free plugin without database conflicts.
+- **Flexible Domain Seat Management:** Commercial plans (`1` / `5` / `25` domains) include instant self-service domain management and billing recovery via the online Customer Portal (`#manage`).
+- **Pre-Renewal Reminders & Clear Billing Control:** Automated advance email reminders are sent before annual subscription renewals with a 1-click link to manage or cancel renewal at any time.
+- **Local Protection Continuity (Pro Annual Plans):** If an annual subscription ends naturally, all local protection modules on the installed version remain active on your domains; an active subscription is required only for new software updates and priority support.
+- **Seamless Free-to-Pro Upgrade:** Installing Content Guardian Pro automatically preserves existing Gexiro Content Protection (Free) settings and cleanly deactivates the standalone Free plugin without database conflicts.
 
 ---
 
-## Editions & Direct Verification
+## Editions & Direct Links
 
 ### 1. Gexiro Content Protection — Free Edition (`GPL-2.0-or-later`, $0)
 
-4-module client-side content & media protection (`Right-Click`, `Text Selection`, `Clipboard Copy/Cut`, `Image Drag Shield`) with form/input safety (`INPUT`, `TEXTAREA`, `contenteditable` exclusions), logged-in administrator bypass, anonymized local-only telemetry (zero visitor IPs stored, zero external HTTP requests), and WordPress Core Privacy Guide integration.
+4-module client-side content & media protection (`Right-Click`, `Text Selection`, `Clipboard Copy/Cut`, `Image Drag Shield`) with form/input safety (`INPUT`, `TEXTAREA`, `contenteditable` exclusions), logged-in administrator bypass, privacy-first local event counters (zero external HTTP requests), and WordPress Core Privacy Guide integration.
 
 - **Official WordPress.org Plugin Directory:** [https://wordpress.org/plugins/gexiro-content-protection/](https://wordpress.org/plugins/gexiro-content-protection/)
 - **Official WordPress.org ZIP (`v3.3.4`):** [https://downloads.wordpress.org/plugin/gexiro-content-protection.3.3.4.zip](https://downloads.wordpress.org/plugin/gexiro-content-protection.3.3.4.zip)
 - **WordPress Playground Live Preview:** [https://wordpress.org/plugins/gexiro-content-protection/?preview=1](https://wordpress.org/plugins/gexiro-content-protection/?preview=1)
 - **Direct Gexiro Mirror (`v3.3.4`):** [https://gexiro.com/content-guardian/content-guardian-free-latest.zip](https://gexiro.com/content-guardian/content-guardian-free-latest.zip)
-- **SHA-256 Checksum (Gexiro Mirror):** `453be05535f69a491f2fb3debe213e2b32298e5d116fc3cd1d1a34b0ee2a8e2e`
 
-### 2. Content Guardian Pro (`v3.3.4` — Full 21-Layer Suite)
+### 2. Content Guardian Pro (`v3.3.4` — Commercial Protection Suite)
 
-Adds server-side unauthenticated REST API (`/wp-json/wp/v2/`), RSS/Atom, oEmbed, and XML-RPC full-text truncation, W3C `TDM-Reservation: 1` + `/llms.txt` + `/.well-known/tdmrep.json` policy headers, opt-in 64-bit HMAC-SHA256 Zero-Width Forensic Canary v2 attribution, `[guardian_vault]` Closed Shadow-DOM isolation, HTML5 Canvas pixel watermarking, Cloudflare Edge-WAF auto-ban, runtime CVE-2026-109619 guard, and air-gapped Cold-Vault Ed25519 signed OTA updates.
+Adds automated bulk scraper and feed defense, AI training crawler protection, invisible ownership watermarking with an in-dashboard Leak Verifier, advanced protected content blocks, watermarked image rendering, print copyright protection, and automatic plugin updates.
 
 | Plan | Domain Seats | Billing | Self-Service Seat Management |
 | :--- | :---: | :---: | :---: |
