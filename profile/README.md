@@ -23,6 +23,21 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3><a href="https://zerocanary.com">ZeroCanary</a> <code>ZEROCANARY // CONTINUITY</code></h3>
+      <p>
+        <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
+        <img src="https://img.shields.io/badge/Crypto-AES--256--GCM_%2B_600k_PBKDF2-C69B4B?style=flat-square" alt="AES-256-GCM">
+        <img src="https://img.shields.io/badge/Recovery-Air--Gapped_.html-0284C7?style=flat-square" alt="Air-Gapped Recovery">
+      </p>
+      <p><b>Zero-knowledge fiduciary continuity vault & client-side encrypted Dead Man's Switch.</b></p>
+      <ul>
+        <li>Envelope v3 role separation with dedicated Recipient Unlock Password for heirs & counsel</li>
+        <li>Zero-oracle 24h coercion shield with decoy cover note & HMAC emergency counsel webhook</li>
+        <li>100% air-gapped <code>.html</code> Offline Recovery Kit & printable Notary Handover Certificate</li>
+      </ul>
+      <p><sub><a href="https://zerocanary.com">Live Enclave</a> · <a href="https://github.com/gexiro-global/zerocanary">Architecture Overview</a> · <a href="https://zerocanary.com/press">Press & Brand Kit</a> · <a href="https://www.linkedin.com/showcase/zerocanary/">LinkedIn</a></sub></p>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://ghostbill.org">GhostBill</a> <code>GHOSTBILL // XMR</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live-10B981?style=flat-square" alt="Status: Live">
@@ -36,6 +51,8 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>The only XMR processor with full subscription lifecycle management</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://chimerascope.com">ChimeraScope</a> <code>CHIMERASCOPE // SEC-OPS</code></h3>
       <p>
@@ -50,8 +67,6 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Continuous vulnerability posture synthesis</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://xgatewayos.com">X-Gateway OS</a> <code>X-GATEWAY OS // XRPL</code></h3>
       <p>
@@ -66,6 +81,8 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Sovereign asset custody & institutional controls</li>
       </ul>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://exposcore.io">ExpoScore</a> <code>EXPOSCORE // PRIVACY</code></h3>
       <p>
@@ -80,8 +97,6 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Actionable data-leak mitigation strategies</li>
       </ul>
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h3><a href="https://gexaura.com">GexAura</a> <code>GEXAURA // AI</code></h3>
       <p>
@@ -96,7 +111,9 @@ We build privacy-first, zero-trust infrastructure engineered for extreme operati
         <li>Enterprise-grade contextual intelligence and autonomous workspace integration</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top" colspan="2">
       <h3><a href="https://gexiro.com/en/products/content-guardian-pro">Content Guardian</a> <code>CONTENT GUARDIAN // WP-SEC</code></h3>
       <p>
         <img src="https://img.shields.io/badge/Status-Live_(v3.3.4)-10B981?style=flat-square" alt="Status: Live (v3.3.4)">
